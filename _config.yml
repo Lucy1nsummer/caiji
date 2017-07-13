@@ -64,33 +64,6 @@
       <script src="http://www.51taojinge.com/js/jquery.js"></script>
     <script src="http://www.51taojinge.com/js/alert/CJL.0.1.min.js"></script>
     <script src="http://www.51taojinge.com/js/alert/AlertBox.js"></script>
-
-  <!--     
-   捐助开始 
-     <div class='row' >
-    <div style="margin-top:5px" class="alert alert-info">觉得我们程序能为你带来便利的话，不妨打赏下，支持我们能续费服务器 （程序免费,不强求捐款）</span> <span style="float:right">最后一个可自由捐款</span></div>
-      <ul class="thumbnails">
-        <li class="span4">
-          <a href="#" class="thumbnail">
-            <img src="../img/weixin5.png" alt="">
-          </a>
-          </li>
-         <li class="span4">
-          <a href="#" class="thumbnail">
-            <img src="../img/weixin10.png" alt="">
-          </a>
-        </li>
-         <li class="span4">
-          <a href="#" class="thumbnail">
-            <img src="../img/weixin.png" alt="">
-          </a>
-        </li>
-        
-      </ul>
-  
-  </div>  -->
-        <!-- 捐助结束 --> 
-    <!-- script end -->
       </div>
         <div class="col-xs-3" id="myScrollspy" style="display:block">
             <ul class="nav nav-tabs nav-stacked" data-spy="affix" data-offset-top="0" id='newul'>
